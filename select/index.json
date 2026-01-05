@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "innocent flowers",
+  "base_artist": "Nornis",
+  "createdAt": "2026-01-05T07:29:06.955582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "innocent flowers",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/01_innocent_flowers_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "innocent flowers",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/02_innocent_flowers_Nornis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "innocent flowers",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_innocent_flowers_Nornis.txt"
+    }
+  ]
+}
